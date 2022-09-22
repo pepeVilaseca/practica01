@@ -7,3 +7,5 @@ Verde
 Azul
 Morado
 Violeta
+
+Orden correcto
